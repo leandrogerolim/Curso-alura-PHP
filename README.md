@@ -24,6 +24,11 @@
 
 ## - PHP Exceptions: tratamento de erros
 
+## - PHP e TDD: testes com PHPUnit
+
+vendor\bin\phpunit
+![image](https://user-images.githubusercontent.com/92825608/225036183-32b65ad8-8ece-44ca-87ed-3c0c6ef53931.png)
+
 
 ********************
 ### Criado por ALURA
